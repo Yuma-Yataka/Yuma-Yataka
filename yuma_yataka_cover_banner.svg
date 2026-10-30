@@ -1,0 +1,530 @@
+<svg
+    x="0"
+    y="0"
+    width="680"
+    height="227"
+    viewBox="0 0 1500 500"
+    role="img"
+    xmlns="http://www.w3.org/2000/svg"
+    style="
+        fill: rgb(0, 0, 0);
+        stroke: none;
+        color: rgb(11, 11, 11);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        opacity: 1;
+        font-family:
+            anthropic-sans,
+            -apple-system,
+            BlinkMacSystemFont,
+            &quot;Segoe UI&quot;,
+            sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        text-anchor: start;
+        dominant-baseline: auto;
+    "
+>
+    <title
+        style="
+            fill: rgb(0, 0, 0);
+            stroke: none;
+            color: rgb(11, 11, 11);
+            stroke-width: 1px;
+            stroke-linecap: butt;
+            stroke-linejoin: miter;
+            opacity: 1;
+            font-family:
+                anthropic-sans,
+                -apple-system,
+                BlinkMacSystemFont,
+                &quot;Segoe UI&quot;,
+                sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            text-anchor: start;
+            dominant-baseline: auto;
+        "
+    >
+        Yuma Yataka cover banner
+    </title>
+    <desc
+        style="
+            fill: rgb(0, 0, 0);
+            stroke: none;
+            color: rgb(11, 11, 11);
+            stroke-width: 1px;
+            stroke-linecap: butt;
+            stroke-linejoin: miter;
+            opacity: 1;
+            font-family:
+                anthropic-sans,
+                -apple-system,
+                BlinkMacSystemFont,
+                &quot;Segoe UI&quot;,
+                sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            text-anchor: start;
+            dominant-baseline: auto;
+        "
+    >
+        Wide indigo banner with mountains rising to the right, a pale gold moon,
+        a small vermilion seal with 弥高優磨, the name Yuma Yataka and the motto
+        仰之弥高, ever higher.
+    </desc>
+    <defs>
+        <clipPath id="cv">
+            <rect x="0" y="0" width="1500" height="500" rx="20" />
+        </clipPath>
+    </defs>
+    <g
+        clip-path="url(#cv)"
+        style="
+            fill: rgb(0, 0, 0);
+            stroke: none;
+            color: rgb(11, 11, 11);
+            stroke-width: 1px;
+            stroke-linecap: butt;
+            stroke-linejoin: miter;
+            opacity: 1;
+            font-family:
+                anthropic-sans,
+                -apple-system,
+                BlinkMacSystemFont,
+                &quot;Segoe UI&quot;,
+                sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            text-anchor: start;
+            dominant-baseline: auto;
+        "
+    >
+        <rect
+            width="1500"
+            height="500"
+            fill="#16223d"
+            style="
+                fill: rgb(22, 34, 61);
+                stroke: none;
+                color: rgb(11, 11, 11);
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 1;
+                font-family:
+                    anthropic-sans,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    &quot;Segoe UI&quot;,
+                    sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                text-anchor: start;
+                dominant-baseline: auto;
+            "
+        />
+        <ellipse
+            cx="750"
+            cy="230"
+            rx="700"
+            ry="260"
+            fill="#1b2a4a"
+            style="
+                fill: rgb(27, 42, 74);
+                stroke: none;
+                color: rgb(11, 11, 11);
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 1;
+                font-family:
+                    anthropic-sans,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    &quot;Segoe UI&quot;,
+                    sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                text-anchor: start;
+                dominant-baseline: auto;
+            "
+        />
+        <circle
+            cx="1220"
+            cy="120"
+            r="56"
+            fill="#e9d6a8"
+            style="
+                fill: rgb(233, 214, 168);
+                stroke: none;
+                color: rgb(11, 11, 11);
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 1;
+                font-family:
+                    anthropic-sans,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    &quot;Segoe UI&quot;,
+                    sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                text-anchor: start;
+                dominant-baseline: auto;
+            "
+        />
+        <circle
+            cx="1220"
+            cy="120"
+            r="74"
+            fill="none"
+            stroke="#e9d6a8"
+            stroke-width="2"
+            opacity="0.35"
+            style="
+                fill: none;
+                stroke: rgb(233, 214, 168);
+                color: rgb(11, 11, 11);
+                stroke-width: 2px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 0.35;
+                font-family:
+                    anthropic-sans,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    &quot;Segoe UI&quot;,
+                    sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                text-anchor: start;
+                dominant-baseline: auto;
+            "
+        />
+        <path
+            d="M0 360 L180 320 L330 345 L520 290 L700 315 L900 250 L1080 280 L1300 200 L1500 170 L1500 500 L0 500 Z"
+            fill="#2c4170"
+            style="
+                fill: rgb(44, 65, 112);
+                stroke: none;
+                color: rgb(11, 11, 11);
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 1;
+                font-family:
+                    anthropic-sans,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    &quot;Segoe UI&quot;,
+                    sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                text-anchor: start;
+                dominant-baseline: auto;
+            "
+        />
+        <path
+            d="M0 410 L220 380 L400 395 L620 350 L820 370 L1040 320 L1250 340 L1500 280 L1500 500 L0 500 Z"
+            fill="#1f3058"
+            style="
+                fill: rgb(31, 48, 88);
+                stroke: none;
+                color: rgb(11, 11, 11);
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 1;
+                font-family:
+                    anthropic-sans,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    &quot;Segoe UI&quot;,
+                    sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                text-anchor: start;
+                dominant-baseline: auto;
+            "
+        />
+        <path
+            d="M0 455 L260 435 L480 445 L720 415 L960 425 L1200 390 L1500 370 L1500 500 L0 500 Z"
+            fill="#0f1a30"
+            style="
+                fill: rgb(15, 26, 48);
+                stroke: none;
+                color: rgb(11, 11, 11);
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 1;
+                font-family:
+                    anthropic-sans,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    &quot;Segoe UI&quot;,
+                    sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                text-anchor: start;
+                dominant-baseline: auto;
+            "
+        />
+        <g
+            transform="rotate(-4 750 150)"
+            style="
+                fill: rgb(0, 0, 0);
+                stroke: none;
+                color: rgb(11, 11, 11);
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 1;
+                font-family:
+                    anthropic-sans,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    &quot;Segoe UI&quot;,
+                    sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                text-anchor: start;
+                dominant-baseline: auto;
+            "
+        >
+            <rect
+                x="702"
+                y="102"
+                width="96"
+                height="96"
+                rx="6"
+                fill="#c73a28"
+                style="
+                    fill: rgb(199, 58, 40);
+                    stroke: none;
+                    color: rgb(11, 11, 11);
+                    stroke-width: 1px;
+                    stroke-linecap: butt;
+                    stroke-linejoin: miter;
+                    opacity: 1;
+                    font-family:
+                        anthropic-sans,
+                        -apple-system,
+                        BlinkMacSystemFont,
+                        &quot;Segoe UI&quot;,
+                        sans-serif;
+                    font-size: 16px;
+                    font-weight: 400;
+                    text-anchor: start;
+                    dominant-baseline: auto;
+                "
+            />
+            <rect
+                x="708"
+                y="108"
+                width="84"
+                height="84"
+                rx="3"
+                fill="none"
+                stroke="#f3e7cf"
+                stroke-width="2"
+                style="
+                    fill: none;
+                    stroke: rgb(243, 231, 207);
+                    color: rgb(11, 11, 11);
+                    stroke-width: 2px;
+                    stroke-linecap: butt;
+                    stroke-linejoin: miter;
+                    opacity: 1;
+                    font-family:
+                        anthropic-sans,
+                        -apple-system,
+                        BlinkMacSystemFont,
+                        &quot;Segoe UI&quot;,
+                        sans-serif;
+                    font-size: 16px;
+                    font-weight: 400;
+                    text-anchor: start;
+                    dominant-baseline: auto;
+                "
+            />
+            <text
+                x="771"
+                y="129"
+                text-anchor="middle"
+                dominant-baseline="central"
+                style="
+                    fill: #f3e7cf;
+                    font-size: 34px;
+                    font-weight: 700;
+                    font-family:
+                        &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;,
+                        &quot;Hiragino Mincho ProN&quot;, serif;
+                    fill: rgb(243, 231, 207);
+                    stroke: none;
+                    color: rgb(11, 11, 11);
+                    stroke-width: 1px;
+                    stroke-linecap: butt;
+                    stroke-linejoin: miter;
+                    opacity: 1;
+                    font-family:
+                        &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;,
+                        &quot;Hiragino Mincho ProN&quot;, serif;
+                    font-size: 34px;
+                    font-weight: 700;
+                    text-anchor: middle;
+                    dominant-baseline: central;
+                "
+            >
+                弥
+            </text>
+            <text
+                x="771"
+                y="171"
+                text-anchor="middle"
+                dominant-baseline="central"
+                style="
+                    fill: #f3e7cf;
+                    font-size: 34px;
+                    font-weight: 700;
+                    font-family:
+                        &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;,
+                        &quot;Hiragino Mincho ProN&quot;, serif;
+                    fill: rgb(243, 231, 207);
+                    stroke: none;
+                    color: rgb(11, 11, 11);
+                    stroke-width: 1px;
+                    stroke-linecap: butt;
+                    stroke-linejoin: miter;
+                    opacity: 1;
+                    font-family:
+                        &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;,
+                        &quot;Hiragino Mincho ProN&quot;, serif;
+                    font-size: 34px;
+                    font-weight: 700;
+                    text-anchor: middle;
+                    dominant-baseline: central;
+                "
+            >
+                高
+            </text>
+            <text
+                x="729"
+                y="129"
+                text-anchor="middle"
+                dominant-baseline="central"
+                style="
+                    fill: #f3e7cf;
+                    font-size: 34px;
+                    font-weight: 700;
+                    font-family:
+                        &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;,
+                        &quot;Hiragino Mincho ProN&quot;, serif;
+                    fill: rgb(243, 231, 207);
+                    stroke: none;
+                    color: rgb(11, 11, 11);
+                    stroke-width: 1px;
+                    stroke-linecap: butt;
+                    stroke-linejoin: miter;
+                    opacity: 1;
+                    font-family:
+                        &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;,
+                        &quot;Hiragino Mincho ProN&quot;, serif;
+                    font-size: 34px;
+                    font-weight: 700;
+                    text-anchor: middle;
+                    dominant-baseline: central;
+                "
+            >
+                優
+            </text>
+            <text
+                x="729"
+                y="171"
+                text-anchor="middle"
+                dominant-baseline="central"
+                style="
+                    fill: #f3e7cf;
+                    font-size: 34px;
+                    font-weight: 700;
+                    font-family:
+                        &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;,
+                        &quot;Hiragino Mincho ProN&quot;, serif;
+                    fill: rgb(243, 231, 207);
+                    stroke: none;
+                    color: rgb(11, 11, 11);
+                    stroke-width: 1px;
+                    stroke-linecap: butt;
+                    stroke-linejoin: miter;
+                    opacity: 1;
+                    font-family:
+                        &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;,
+                        &quot;Hiragino Mincho ProN&quot;, serif;
+                    font-size: 34px;
+                    font-weight: 700;
+                    text-anchor: middle;
+                    dominant-baseline: central;
+                "
+            >
+                磨
+            </text>
+        </g>
+        <text
+            x="750"
+            y="272"
+            text-anchor="middle"
+            style="
+                fill: #f3e7cf;
+                font-size: 58px;
+                letter-spacing: 14px;
+                font-family: Georgia, &quot;Times New Roman&quot;, serif;
+                fill: rgb(243, 231, 207);
+                stroke: none;
+                color: rgb(11, 11, 11);
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 1;
+                font-family: Georgia, &quot;Times New Roman&quot;, serif;
+                font-size: 58px;
+                font-weight: 400;
+                text-anchor: middle;
+                dominant-baseline: auto;
+            "
+        >
+            YŪMA YATAKA
+        </text>
+        <text
+            x="750"
+            y="318"
+            text-anchor="middle"
+            style="
+                fill: #e9d6a8;
+                font-size: 26px;
+                letter-spacing: 4px;
+                font-family:
+                    &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;, Georgia,
+                    serif;
+                fill: rgb(233, 214, 168);
+                stroke: none;
+                color: rgb(11, 11, 11);
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                opacity: 1;
+                font-family:
+                    &quot;Noto Serif JP&quot;, &quot;Yu Mincho&quot;, Georgia,
+                    serif;
+                font-size: 26px;
+                font-weight: 400;
+                text-anchor: middle;
+                dominant-baseline: auto;
+            "
+        >
+            仰之弥高 · ever higher
+        </text>
+    </g>
+</svg>
