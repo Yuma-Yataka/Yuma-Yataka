@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="yuma_yataka_cover_banner.png" alt="Yūma Yataka 弥高優磨" width="100%" style="object-fit: fill">
+</p>
 
-<!--
-**Yuma-Yataka/Yuma-Yataka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Yūma Yataka
 
-Here are some ideas to get you started:
+I write novels and build web/desktop projects..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The name is a pen name. 弥高 means "ever higher," and 優磨 means "gentle, and polished by effort."
+That's roughly the plan for everything in here, too.
+
+- **Working on:** Novelette - Shadows of the Downpour
+- **Learning:** English + Better Japanese
+- **Writing at:** Inkmere app for now.
+
+Want to reach out? Knock me at [yatakayuuma.writes@proton.me](mailto:yatakayuuma.writes@proton.me).
