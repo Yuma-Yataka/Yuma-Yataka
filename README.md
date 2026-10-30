@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="yuma_yataka_cover_banner.png" alt="Yūma Yataka 弥高優磨" width="100%" style="object-fit: fill">
+  <img src="yuma_yataka_cover_banner.svg" alt="Yūma Yataka 弥高優磨" width="100%" style="object-fit: fill">
 </p>
 
 ### Yūma Yataka
